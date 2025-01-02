@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "name": "challenge-chapter-5",
+  "description": "- [ ] Mengetahui perbedaan arsitektur Monolitik dan Microservice secara garis besar - [ ] Menggunakan package yang diinstall dengan menggunakan NPM/YARN - [ ] Serving static HTML, static file dan json ke browser - [ ] Menggunakan metode routing untuk memisahkan tiap halaman - [ ] Menggunakan middleware untuk akun statis - [ ] Menerapkan view engine untuk menampilkan HTML File - [ ] Menyediakan endpoint dengan tipe data JSON dari data statis - [ ] Membuat dan melakukan import export module - [ ] Push ke git untuk di-review",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Binar-FSW-Wave-25/Challenge-Chapter-5.git"
+  },
+  "author": "Kurnia Massidik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Binar-FSW-Wave-25/Challenge-Chapter-5/issues"
+  },
+  "homepage": "https://github.com/Binar-FSW-Wave-25/Challenge-Chapter-5#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
